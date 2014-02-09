@@ -1,7 +1,7 @@
 #cheese-cake
 ===========
 
-##This is cake command extend library.
+##This is cake extend library.
 
 
 ===========
