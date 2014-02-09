@@ -1,7 +1,7 @@
 
-fs = require 'fs'
-path = require 'path'
-_ = require 'underscore'
+fs = require('fs')
+path = require('path')
+_ = require('underscore')
 
 builds = {}
 groups = {}
@@ -73,3 +73,5 @@ _(global).extend
       task group, descript, (options)->
         for build in groups[group]
           build.call @, options
+
+module.exports = exports = ->
