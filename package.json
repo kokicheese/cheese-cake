@@ -1,7 +1,7 @@
 {
   "name": "cheese-cake",
   "version": "0.0.1",
-  "description": "",
+  "description": "cake(coffee) extend library.",
   "main": "index.js",
   "dependencies": {
     "underscore": "~1.5.2",
