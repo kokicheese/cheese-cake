@@ -1,0 +1,17 @@
+{
+  "name": "cheese-cake",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "coffee-script": "~1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/kokicheese/cheese-cake",
+  "author": "kokicheese(@koki_cheese)",
+  "license": "MIT"
+}
